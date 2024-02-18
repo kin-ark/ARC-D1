@@ -1,0 +1,2 @@
+3. Apa itu fork dan pull request github?
+	Fork itu membuat copy dari repository dan copy-an tersebut dapat diubah oleh kita tanpa mengubah apapun dari repository aslinya. Kemudian, kita bisa pull request agar perubahan di repository yang sudah di-fork tadi terintegrasi ke repository aslinya

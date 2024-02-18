@@ -1,0 +1,2 @@
+1. Apa itu merge conflict dan cara menanggulanginya
+	Merge conflict adalah sebuah kasus saat terdapat conflict saat akan merge. Hal ini dapat terjadi ketika terdapat pergantian di baris yang sama sebuah file atau ketika satu orang mengedit filenya, tetapi satu orang lainnya menghapus filenya. Ketika terjadi merge conflict, kita dapat menanggulanginya dengan berbagai cara, seperti pilih salah satu perubahan saja, menggabungkan keduanya, atau menghapus perubahan yang telah dibuat dan buat baru.
